@@ -7,7 +7,7 @@ The database we will be using for our exercises is New York City's Department of
 
 You can download the files here:
 
-Data (ZIP CSV) _(Last updated: April 19, 2021)_: 
+Data (ZIP CSV) _(from 2018)_: 
 [nyc_grades.csv.zip](https://github.com/jonkeegan/intro-to-sql/raw/master/nyc_grades.csv.zip)
 
 Data dictionary (XLSX): 
