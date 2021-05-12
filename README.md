@@ -4,7 +4,7 @@ _April 2021_
 <!-- For this workshop, we'll be using [DB Browser fo SQLite](https://sqlitebrowser.org/dl/).  -->
 For this workshop, we'll be using [SQLiteStudio](https://sqlitestudio.pl/). 
 
-It's availaible on Mac, Windows and Linunx, it is open source and self-contained without the need for a server. It's great for getting started with SQL.
+It's availaible on Mac, Windows and Linux, it is open source and self-contained without the need for a server. It's great for getting started with SQL.
 
 The database we will be using for our exercises is New York City's Department of Health and Mental Hygiene (DOHMH) [Restaurant Inspection Results](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j).
 
